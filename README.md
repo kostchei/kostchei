@@ -7,6 +7,8 @@ I'm kostchei - coding with the LLMs! 🤖 Zero knowledge of code, just the LLMs 
 Here are my deployed Azure Static Web Apps:
 
 ### 🎲 D&D Tools & Encounters
+
+- **[Pleb Generator]** - for making npcs adventurers for interaction https://mango-island-004ed0000.2.azurestaticapps.net/ 
 - **[DnD Encounters 24]** - D&D encounter generator and tools https://green-mud-0d844ea00.4.azurestaticapps.net
 - **[Descriptors App]** - Character and scene descriptors https://brave-island-0f1cd7010.3.azurestaticapps.net 
 - **[Alternative Descriptors]** More descriptor tools https://purple-river-02653d500.3.azurestaticapps.net
