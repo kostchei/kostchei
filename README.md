@@ -7,7 +7,7 @@ I'm kostchei - coding with the LLMs! 🤖 Zero knowledge of code, just the LLMs 
 Here are my deployed Azure Static Web Apps:
 
 ### 🎲 D&D Tools & Encounters
-- **[DnD Encounters 24](https://green-mud-0d844ea00.4.azurestaticapps.net/)** - D&D encounter generator and tools
+- **[DnD Encounters 24]** - D&D encounter generator and tools https://green-mud-0d844ea00.4.azurestaticapps.net
 - **[Descriptors App](blue-mushroom-06e8ed300.azurestaticapps.net)** - Character and scene descriptors
 - **[Alternative Descriptors](happy-island-044244700.azurestaticapps.net)** - More descriptor tools
 - **[Named Encounters](github.com/kostchei/named-encounters)** - D&D encounter generator with unique names and motivations *(deployment in progress)*
