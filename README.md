@@ -7,12 +7,12 @@ I'm kostchei - coding with the LLMs! 🤖 Zero knowledge of code, just the LLMs 
 Here are my deployed Azure Static Web Apps:
 
 ### 🎲 D&D Tools & Encounters
-- **[DnD Encounters 24](https://green-mud-0d844ea00.azurestaticapps.net)** - D&D encounter generator and tools
-- **[Descriptors App](https://blue-mushroom-06e8ed300.azurestaticapps.net)** - Character and scene descriptors
-- **[Alternative Descriptors](https://happy-island-044244700.azurestaticapps.net)** - More descriptor tools
-- **[Named Encounters](https://github.com/kostchei/named-encounters)** - D&D encounter generator with unique names and motivations *(deployment in progress)*
-- **[Events App](https://github.com/kostchei/events-app)** - NPC and event generation tool *(deployment in progress)*
-- **[Traps App](https://github.com/kostchei/traps-app)** - Trap generation and management *(deployment configured)*
+- **[DnD Encounters 24](green-mud-0d844ea00.azurestaticapps.net)** - D&D encounter generator and tools
+- **[Descriptors App](blue-mushroom-06e8ed300.azurestaticapps.net)** - Character and scene descriptors
+- **[Alternative Descriptors](happy-island-044244700.azurestaticapps.net)** - More descriptor tools
+- **[Named Encounters](github.com/kostchei/named-encounters)** - D&D encounter generator with unique names and motivations *(deployment in progress)*
+- **[Events App](github.com/kostchei/events-app)** - NPC and event generation tool *(deployment in progress)*
+- **[Traps App](github.com/kostchei/traps-app)** - Trap generation and management *(deployment configured)*
 
 ## 🎯 What I Build
 
