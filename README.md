@@ -10,6 +10,7 @@ Here are my deployed Azure Static Web Apps:
 
 - **[Pleb Generator]** - for making npcs adventurers for interaction https://mango-island-004ed0000.2.azurestaticapps.net/ 
 - **[DnD Encounters 24]** - D&D encounter generator and tools https://green-mud-0d844ea00.4.azurestaticapps.net
+- **[Phanatascope]** - An image resizing program that runs as a standlaone windows .exe https://github.com/kostchei/phantascope/releases/download/v1.0.0/Phantascope-v1.0.0-Windows.zip
 - **[Descriptors App]** - Character and scene descriptors https://brave-island-0f1cd7010.3.azurestaticapps.net 
 - **[Alternative Descriptors]** More descriptor tools https://purple-river-02653d500.3.azurestaticapps.net
 - **[Named Encounters]** D&D encounter generator with unique names and motivations https://red-mud-089ee0400.1.azurestaticapps.net
