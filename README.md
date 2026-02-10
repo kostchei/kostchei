@@ -17,7 +17,8 @@ Here are my deployed Azure Static Web Apps:
 - **[Events App]** - NPC and event generation tool https://wonderful-ocean-074a32800.3.azurestaticapps.net
 - **[Traps App]** - Trap generation and management https://jolly-sky-00c6f5600.3.azurestaticapps.net
 
-
+Wiki for Forgotten Realms
+https://kostchei.github.io/Wednesday_Night_Faerun/#/
 
 ## 🎯 What I Build
 
